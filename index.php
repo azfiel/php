@@ -1,1 +1,1 @@
-jebac cie karle
+Kto pytał 
