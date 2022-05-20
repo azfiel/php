@@ -1,0 +1,46 @@
+.nav{
+	text-align: center;
+	background-color: darkolivegreen;
+	width: 100%;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.nav,li{
+	display: inline-block;
+	font-size: 28px;
+}
+.nav,a{
+	color: black;
+	text-decoration: none;
+	padding: 1;
+}
+.logowanieform{
+	text-align: center;
+}
+input[type="text"],input[type="password"]{
+	width: 350px;
+	height: 90px;
+	font-size: 25pt;
+	text-align: center;
+	border-radius: 6px;
+}
+input[type="submit"]{
+	height: 45px;
+	width: 150px;
+	font-size: 21pt;
+	border-radius: 6px;
+}
+body{
+	background-image:url("floppa.jpg");
+	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+ 	
+}
+
+#napis{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
